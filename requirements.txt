@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+matplotlib==3.8.4
+scikit-learn
+pickle-mixin
